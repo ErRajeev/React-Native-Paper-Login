@@ -1,6 +1,6 @@
 import * as React from 'react';
 import {MD3LightTheme as DefaultTheme, PaperProvider} from 'react-native-paper';
-import App from './src/App';
+import App from './App';
 
 const theme = {
   ...DefaultTheme,
